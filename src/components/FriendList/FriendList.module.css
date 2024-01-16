@@ -19,6 +19,12 @@
   margin: 0 auto 24px;
 }
 
+.status {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+}
+
 .avatar {
   width: 50px;
   border-radius: 10%;
